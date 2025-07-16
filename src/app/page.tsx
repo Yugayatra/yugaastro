@@ -151,7 +151,7 @@ export default function Home() {
             whileInView="visible"
             viewport={{ once: true, margin: "-50px 0px -50px 0px" }}
           >
-            {topAstrologers.map((astrologer: Astrologer, index: number) => (
+            {topAstrologers.map((astrologer: Astrologer) => (
               <motion.div
                 key={astrologer.id}
                 variants={itemVariants}
@@ -364,7 +364,7 @@ export default function Home() {
             whileInView="visible"
             viewport={{ once: true, margin: "-50px 0px -50px 0px" }}
           >
-            {blogPosts.map((post: BlogPost, index: number) => (
+            {blogPosts.map((post: BlogPost) => (
               <motion.div
                 key={post.slug}
                 variants={itemVariants}

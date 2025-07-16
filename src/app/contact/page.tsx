@@ -78,7 +78,7 @@ export default function ContactPage() {
               Get in Touch
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Have questions about our services? Need spiritual guidance? We're here to help you on your journey.
+              Have questions about our services? Need spiritual guidance? We&apos;re here to help you on your journey.
             </p>
           </div>
         </div>
@@ -92,7 +92,7 @@ export default function ContactPage() {
             
             {submitStatus === 'success' && (
               <div className="mb-6 p-4 bg-green-50 border border-green-200 rounded-lg">
-                <p className="text-green-800">Thank you! Your message has been sent successfully. We'll get back to you soon.</p>
+                <p className="text-green-800">Thank you! Your message has been sent successfully. We&apos;ll get back to you soon.</p>
               </div>
             )}
 
@@ -229,7 +229,7 @@ export default function ContactPage() {
             </div>
             <div className="bg-white rounded-xl p-6 shadow-lg">
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Can I schedule a consultation through the contact form?</h3>
-              <p className="text-gray-600">Yes! Mention your preferred consultation type in your message and we'll help you schedule a session.</p>
+              <p className="text-gray-600">Yes! Mention your preferred consultation type in your message and we&apos;ll help you schedule a session.</p>
             </div>
             <div className="bg-white rounded-xl p-6 shadow-lg">
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Do you offer emergency consultations?</h3>

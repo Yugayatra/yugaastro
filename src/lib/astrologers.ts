@@ -95,4 +95,10 @@ export const getFallbackAstrologers = (): Astrologer[] => {
       description: 'Expert in marriage compatibility and business astrology'
     }
   ];
+};
+
+// Get top astrologers (fallback function for static data)
+export const getTopAstrologers = (limit: number = 4): Astrologer[] => {
+  const fallbackAstrologers = getFallbackAstrologers();
+  return fallbackAstrologers.slice(0, limit);
 }; 
