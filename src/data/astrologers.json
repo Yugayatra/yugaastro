@@ -1,0 +1,136 @@
+{
+  "astrologers": [
+    {
+      "id": "astro_001",
+      "name": "Pandit Rajesh Kumar",
+      "rating": 4.8,
+      "experience": 15,
+      "price_per_min": 50,
+      "language": ["Hindi", "English"],
+      "image_url": "/images/astrologers/rajesh-kumar.jpg",
+      "specialization": ["Vedic Astrology", "Kundli Analysis"],
+      "description": "Expert in Vedic astrology with 15+ years of experience in kundli analysis and horoscope predictions."
+    },
+    {
+      "id": "astro_002", 
+      "name": "Dr. Priya Sharma",
+      "rating": 4.9,
+      "experience": 12,
+      "price_per_min": 75,
+      "language": ["English", "Hindi", "Bengali"],
+      "image_url": "/images/astrologers/priya-sharma.jpg",
+      "specialization": ["Career Guidance", "Relationship Counseling"],
+      "description": "Specialized in career guidance and relationship counseling with deep knowledge of planetary influences."
+    },
+    {
+      "id": "astro_003",
+      "name": "Acharya Amit Patel",
+      "rating": 4.7,
+      "experience": 20,
+      "price_per_min": 100,
+      "language": ["Hindi", "Gujarati", "English"],
+      "image_url": "/images/astrologers/amit-patel.jpg",
+      "specialization": ["Marriage Compatibility", "Business Astrology"],
+      "description": "Renowned for marriage compatibility analysis and business astrology consultations."
+    },
+    {
+      "id": "astro_004",
+      "name": "Smt. Lakshmi Devi",
+      "rating": 4.6,
+      "experience": 18,
+      "price_per_min": 60,
+      "language": ["Tamil", "English", "Hindi"],
+      "image_url": "/images/astrologers/lakshmi-devi.jpg",
+      "specialization": ["Remedial Measures", "Gemstone Consultation"],
+      "description": "Expert in remedial measures and gemstone recommendations for planetary balance."
+    },
+    {
+      "id": "astro_005",
+      "name": "Pandit Suresh Verma",
+      "rating": 4.8,
+      "experience": 25,
+      "price_per_min": 120,
+      "language": ["Hindi", "English", "Marathi"],
+      "image_url": "/images/astrologers/suresh-verma.jpg",
+      "specialization": ["Muhurat Selection", "Vastu Shastra"],
+      "description": "Specialized in auspicious timing selection and Vastu consultation for homes and businesses."
+    },
+    {
+      "id": "astro_006",
+      "name": "Dr. Meera Iyer",
+      "rating": 4.9,
+      "experience": 14,
+      "price_per_min": 80,
+      "language": ["English", "Hindi", "Telugu"],
+      "image_url": "/images/astrologers/meera-iyer.jpg",
+      "specialization": ["Health Astrology", "Child Astrology"],
+      "description": "Focused on health-related astrological guidance and child development predictions."
+    },
+    {
+      "id": "astro_007",
+      "name": "Acharya Ramesh Singh",
+      "rating": 4.7,
+      "experience": 22,
+      "price_per_min": 90,
+      "language": ["Hindi", "Punjabi", "English"],
+      "image_url": "/images/astrologers/ramesh-singh.jpg",
+      "specialization": ["Financial Astrology", "Investment Guidance"],
+      "description": "Expert in financial astrology and investment timing based on planetary positions."
+    },
+    {
+      "id": "astro_008",
+      "name": "Smt. Geeta Reddy",
+      "rating": 4.6,
+      "experience": 16,
+      "price_per_min": 65,
+      "language": ["Telugu", "English", "Hindi"],
+      "image_url": "/images/astrologers/geeta-reddy.jpg",
+      "specialization": ["Education Astrology", "Career Planning"],
+      "description": "Specialized in educational guidance and career planning through astrological analysis."
+    },
+    {
+      "id": "astro_009",
+      "name": "Pandit Arun Kumar",
+      "rating": 4.8,
+      "experience": 19,
+      "price_per_min": 85,
+      "language": ["Hindi", "English", "Bengali"],
+      "image_url": "/images/astrologers/arun-kumar.jpg",
+      "specialization": ["Travel Astrology", "Foreign Settlement"],
+      "description": "Expert in travel astrology and guidance for foreign settlement opportunities."
+    },
+    {
+      "id": "astro_010",
+      "name": "Dr. Kavita Desai",
+      "rating": 4.9,
+      "experience": 13,
+      "price_per_min": 95,
+      "language": ["English", "Hindi", "Marathi"],
+      "image_url": "/images/astrologers/kavita-desai.jpg",
+      "specialization": ["Love Compatibility", "Relationship Healing"],
+      "description": "Specialized in love compatibility analysis and relationship healing through astrology."
+    },
+    {
+      "id": "astro_011",
+      "name": "Acharya Deepak Joshi",
+      "rating": 4.7,
+      "experience": 21,
+      "price_per_min": 110,
+      "language": ["Hindi", "English", "Gujarati"],
+      "image_url": "/images/astrologers/deepak-joshi.jpg",
+      "specialization": ["Spiritual Growth", "Meditation Guidance"],
+      "description": "Focused on spiritual growth and meditation guidance through astrological wisdom."
+    },
+    {
+      "id": "astro_012",
+      "name": "Smt. Anjali Gupta",
+      "rating": 4.6,
+      "experience": 17,
+      "price_per_min": 70,
+      "language": ["Hindi", "English", "Tamil"],
+      "image_url": "/images/astrologers/anjali-gupta.jpg",
+      "specialization": ["Family Harmony", "Parenting Guidance"],
+      "description": "Expert in family harmony and parenting guidance through astrological insights."
+    }
+  ]
+} 
