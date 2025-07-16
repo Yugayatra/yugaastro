@@ -2,32 +2,31 @@
   "name": "yuga-astro",
   "version": "0.1.0",
   "private": true,
+  "description": "YugaAstro - Connect with Expert Astrologers - Latest deployment with all fixes applied",
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "populate-astrologers": "node scripts/populate-astrologers.js"
   },
   "dependencies": {
-    "firebase": "^11.10.0",
-    "framer-motion": "^12.23.6",
+    "react": "^18",
+    "react-dom": "^18",
     "next": "15.4.1",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "react-icons": "^5.5.0",
-    "react-markdown": "^10.1.0",
-    "remark-gfm": "^4.0.1"
+    "framer-motion": "^11.0.0",
+    "react-icons": "^5.0.0",
+    "firebase": "^10.7.0"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4",
+    "typescript": "^5",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.4.1",
-    "tailwindcss": "^4.1.11",
-    "typescript": "^5"
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "eslint": "^8",
+    "eslint-config-next": "15.4.1"
   }
 }
